@@ -2,6 +2,10 @@
 
 This project implements Domain Adversarial Neural Network (DANN) for domain adaptation between SVHN and MNIST datasets.
 
+© 2024 Noushin Mirnezami. All Rights Reserved.
+
+IMPORTANT: This code is provided for educational purposes only. No commercial use, reproduction, or distribution is permitted without explicit permission from the author. Unauthorized copying or plagiarism of this project is strictly prohibited.
+
 ## Features
 - Feature extraction network
 - Label classifier
